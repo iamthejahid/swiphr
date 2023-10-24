@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 
 /// Defines the color palette for the App UI Kit.
 abstract class AppColors {
+  /// Primary Color
+  static const Color primaryColor = Color(0xFF8F00FF);
+
   /// Black
   static const Color black = Color(0xFF000000);
 
